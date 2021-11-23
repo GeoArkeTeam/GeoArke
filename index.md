@@ -1,5 +1,5 @@
 ## Welcome to the GeoArke Team website!
-You can use the [editor on GitHub](https://github.com/GeoArkeTeam/GeoArke/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+GeoArke is still in Brain Storming proccess, but what it wants to achieve is on the idea of ATAK but on a decentralized way of working.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
