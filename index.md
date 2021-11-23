@@ -1,11 +1,14 @@
 ## Welcome to the GeoArke Team website!
-GeoArke is still in Brain Storming proccess, but what it wants to achieve is on the idea of ATAK but on a decentralized way of working.
+GeoArke Team is composed by Me(Zoë) and my friend MustachedSquid, we don not intend to reveal our real names for now so meanwhile this is how we can be mentioned.
+Our goal is to make a device that can show maps offline worldwide and comunicate on a P2P decentralized like network, this will be accomplished by using LoRa waves and some software.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Team Members
+
+> Zoë
+
+> MustachedSquid
 
 ```markdown
 Syntax highlighted code block
