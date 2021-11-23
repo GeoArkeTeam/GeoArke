@@ -10,34 +10,15 @@ Our goal is to make a device that can show maps offline worldwide and comunicate
 
 > MustachedSquid
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
+[Image](https://www.google.pt/images/branding/googlelogo/2x/googlelogo_color_160x56dp.png)
 ### Support our Project!
 
 If you want to support us we have different ways:
->- [Paypal]()
->- [Merch]()
->- [Donate]()
->- [Kickstarter]()
->- [IndieGoGo]()
+- [Paypal]()
+- [Merch]()
+- [Donate]()
+- [Kickstarter]()
+- [IndieGoGo]()
 
 ### Contact
 
