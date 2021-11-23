@@ -30,9 +30,14 @@ Syntax highlighted code block
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Support our Poject!
+### Support our Project!
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/GeoArkeTeam/GeoArke/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+If you want to support us we have different ways:
+>[Paypal]()
+>[Merch]()
+>[Donations]()
+>[Kickstarter]()
+>[IndeGoGo]()
 
 ### Contact
 
