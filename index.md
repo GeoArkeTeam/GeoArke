@@ -33,11 +33,11 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 ### Support our Project!
 
 If you want to support us we have different ways:
->[Paypal]()
->[Merch]()
->[Donations]()
->[Kickstarter]()
->[IndeGoGo]()
+>- [Paypal]()
+>- [Merch]()
+>- [Donations]()
+>- [Kickstarter]()
+>- [IndeGoGo]()
 
 ### Contact
 
