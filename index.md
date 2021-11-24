@@ -24,8 +24,8 @@ If you want to support us we have different ways:
 
 ### Socials
 
-- Twitter
-- Mastodon
+- [Twitter]()
+- [Mastodon]()
 - [Yotube](https://www.youtube.com/channel/UCNnzCbmJfNzfZmA_VHrLKgA)
 
 
