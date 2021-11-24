@@ -10,15 +10,25 @@ Our goal is to make a device that can show maps offline worldwide and comunicate
 
 > MustachedSquid
 
-[Image](https://www.google.pt/images/branding/googlelogo/2x/googlelogo_color_160x56dp.png)
+
 ### Support our Project!
 
 If you want to support us we have different ways:
-- [Paypal]()
+
 - [Merch]()
 - [Donate]()
 - [Kickstarter]()
 - [IndieGoGo]()
+
+
+
+### Socials
+
+- Twitter
+- Mastodon
+- [Yotube](https://www.youtube.com/channel/UCNnzCbmJfNzfZmA_VHrLKgA)
+
+
 
 ### Contact
 
