@@ -6,7 +6,7 @@ Our goal is to make a device that can show maps offline worldwide and comunicate
 
 ### Team Members
 
-> Zoë ```Hey everyone, my fictional name is Zoë and my main interest is on networking and systems, though it seems I am doing something else now. I am 18 years old and I finished the Portuguese 12th grade, which is the final year of school. I have always been interested in technology and love to mess around with hardware.```
+> ![Duck ig??](/images/Duck-removebg-preview.png)Zoë ```Hey everyone, my fictional name is Zoë and my main interest is on networking and systems, though it seems I am doing something else now. I am 18 years old and I finished the Portuguese 12th grade, which is the final year of school. I have always been interested in technology and love to mess around with hardware.```
 
 > MustachedSquid ```Hello, I like programming, and thats what I am doing here.```
 
