@@ -24,7 +24,7 @@ If you want to support us we have different ways:
 
 ### Socials
 
-- [Twitter]()
+- [Twitter](https://twitter.com/GeoArkeTeam)
 - [Mastodon]()
 - [Yotube](https://www.youtube.com/channel/UCNnzCbmJfNzfZmA_VHrLKgA)
 - [Discord](https://discord.gg/4cfP9ZNwCY)
