@@ -15,7 +15,7 @@ Our goal is to make a device that can show maps offline worldwide and comunicate
 
 If you want to support us we have different ways:
 
-- [Merch]()
+- [Merch](https://my-store-c39d95.creator-spring.com)
 - [Donate]()
 - [Kickstarter]()
 - [IndieGoGo]()
